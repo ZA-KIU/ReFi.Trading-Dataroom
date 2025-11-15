@@ -1,0 +1,3 @@
+# Founding Story
+
+ReFi.Trading was born when a group of engineers and quantitative traders realised that most retail traders lack the tools to trade systematically. They observed friends losing money due to emotional decisions and saw an opportunity to apply reinforcement learning to create agents that follow disciplined strategies. After experimenting with personal broker APIs, they decided to build a platform that lets anyone connect their broker, run AI agents in simulation and eventually trade live without giving up custody of their funds.
